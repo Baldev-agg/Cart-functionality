@@ -1,3 +1,5 @@
+I am currently developing a cart functionality where users can add products directly from the homepage, similar to prominent e-commerce platforms such as Amazon and Flipkart. Upon selecting "Add to Cart," the chosen product is seamlessly reflected in the cart page. Users can easily review the total cost of their selected items, providing a comprehensive overview when multiple items are added to the cart (3-5, for instance). To enhance user flexibility, the option to remove individual items is available through the "Remove Item" button. Your efforts in implementing this feature are commendable, and I appreciate your dedication to enhancing the user experience. Thank you.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
